@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jakob
+- 👀 I’m interested in website development and learning interesting algorithms
+- 🌱 I’m currently learning python, HTMP, CSS, and JavaScript
